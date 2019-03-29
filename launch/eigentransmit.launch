@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="eigentransmit" type="eigentransmit_publisher" name="eigentransmit_publisher1"/>
+   <node pkg="eigentransmit" type="eigentransmit_subscriber" name="eigentransmit_subscriber1"/>
+</launch>
